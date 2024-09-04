@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "hand-drawn-famous-landmark-vector-260nw-1423760360-2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

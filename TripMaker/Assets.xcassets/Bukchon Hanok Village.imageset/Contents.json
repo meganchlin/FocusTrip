@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "bukchon_hanok_village_by_sakutori_debclzq-fullview.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
