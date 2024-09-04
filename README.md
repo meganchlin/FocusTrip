@@ -1,6 +1,6 @@
-# TripMaker
+# Focus Trip
 
-TripMaker is a dynamic productivity app that enhances focus and motivation through the thrill of virtual travel. Users set a focus timer and advance through global locations, gamifying productivity with immersive travel experiences. Ideal for students, professionals, or anyone looking to boost concentration while exploring the world, TripMaker combines work with pleasure, keeping users engaged, motivated and informed as they achieve their goals. This app promises an enjoyable and educational way to stay focused and meet objectives.
+FocusTrip is a dynamic productivity app that enhances focus and motivation through the thrill of virtual travel. Users set a focus timer and advance through global locations, gamifying productivity with immersive travel experiences. Ideal for students, professionals, or anyone looking to boost concentration while exploring the world, TripMaker combines work with pleasure, keeping users engaged, motivated and informed as they achieve their goals. This app promises an enjoyable and educational way to stay focused and meet objectives.
 
 ## Setup and Configuration
 
